@@ -16,7 +16,7 @@ public class Array101 {
         Student[] std = new Student[3];
         std[0] = new Student("Mo",20);
         std[1] = new Student("Sarah",20);
-        std[2] = new Student("Mbs",20);
+        std[2] = new Student("Ahmed",20);
         for(Student studen : std){
             System.out.println("name:" + studen.name + "Age:" + studen.age);
 
